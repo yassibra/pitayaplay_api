@@ -1,7 +1,7 @@
 # Pitaya Play API | Partie Back-END (à utiliser avec la partie Front-END pitayaplay_web)
 <p align="center">
   
-  <img src="oVgROV3nky.gif" width="360px" />
+  <img src="oVgROV3nky.gif" width="1080px" />
 </p>
 
 

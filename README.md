@@ -1,6 +1,5 @@
-# Pitaya Play API
+# Pitaya Play API Partie Back-END (à utiliser avec la partie Front-END pitayaplay_web)
 
-Exercice pratique du cours 8
 
 ### Installation
 
@@ -8,20 +7,14 @@ Avant tous, il vous faudra installer les librairies dont aura besoin cette appli
 
 Pour ce faire, executer la commande suivante :
 
-```
-npm install
-```
+``` npm install ```
 
 ### Lancer l'application
 
 Pour lancer l'application vous devrez utiliser la commande suivante :
 
-```
-npm run start
-```
+``` npm run start ```
 
 Puis, vous rendre à l'adresse suivante :
 
-```
-http:/localhost:3000
-```
+``` http:/localhost:3000 ```
